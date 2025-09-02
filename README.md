@@ -99,5 +99,6 @@ Each story includes:
 
 ---
 
-**Live Demo:** [AI Interface Prototype]
-**Repository:** [GitHub - AI Interface Prototype] 
+**Live Demo:** [AI Interface Prototype] https://delicate-sable-806e55.netlify.app/
+
+**Repository:** [GitHub - AI Interface Prototype] https://github.com/sandhya-mohanty/AI-Interface-Prototype.git
